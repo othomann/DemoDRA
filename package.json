@@ -2,7 +2,6 @@
   "name": "WReport",
   "version": "0.0.1",
   "description": "Weather Report",
-  "private": true,
   "dependencies": {
     "body-parser": "*",
     "bower": "^1.3.12",
