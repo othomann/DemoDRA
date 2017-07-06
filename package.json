@@ -24,6 +24,7 @@
     "grunt-istanbul": "^0.7.0",
     "grunt-mocha-test": "^0.12.7",
     "grunt-sass": "^1.1.0",
+    "grunt-sonar-runner": "^2.4.8",
     "mocha": "^2.3.3",
     "rewire": "^2.3.4",
     "saucelabs": "^1.0.1",
